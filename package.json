@@ -1,0 +1,25 @@
+{
+  "name": "reddit_scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^94.0.0",
+    "express": "^4.17.1",
+    "selenium-webdriver": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekdusad/reddit_scrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekdusad/reddit_scrapper/issues"
+  },
+  "homepage": "https://github.com/vivekdusad/reddit_scrapper#readme"
+}
